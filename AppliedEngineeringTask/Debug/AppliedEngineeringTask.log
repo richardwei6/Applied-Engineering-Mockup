@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Users\richa\Desktop\Misc\Github Repositories\AppliedEngineeringTask\interface.h(33,9): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+  AppliedEngineeringTask.vcxproj -> D:\Users\richa\Desktop\Misc\Github Repositories\AppliedEngineeringTask\Debug\AppliedEngineeringTask.exe
